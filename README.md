@@ -15,7 +15,7 @@ Fandikana ireo voambolana "mot-clés" amin'ny teny Malagasy
   <tbody>
     <tr>
       <td>break</td>
-      <td>tapaho</td>
+      <td>Miato</td>
     </tr>
     <tr>
       <td>bool</td>
